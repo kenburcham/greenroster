@@ -1,0 +1,73 @@
+[19-Mar-2013 07:46:05] PHP Fatal error:  Call to a member function getAttributeLabel() on a non-object in /home6/pendlet1/public_html/lostnfound/protected/views/admin/startEvent.php on line 14
+[19-Apr-2013 07:30:40] PHP Fatal error:  Using $this when not in object context in /home6/pendlet1/public_html/lostnfound/protected/helpers/NavMenu.php on line 18
+[20-Apr-2013 06:44:22] PHP Fatal error:  Call to undefined function  vardump() in /home6/pendlet1/public_html/lostnfound/protected/controllers/AdminController.php on line 38
+[20-Apr-2013 06:44:35] PHP Fatal error:  Call to undefined function  vardump() in /home6/pendlet1/public_html/lostnfound/protected/controllers/AdminController.php on line 38
+[20-Apr-2013 06:45:14] PHP Fatal error:  Call to undefined function  vardump() in /home6/pendlet1/public_html/lostnfound/protected/controllers/AdminController.php on line 38
+[23-Apr-2013 17:43:03] PHP Fatal error:  Cannot unset string offsets in /home6/pendlet1/public_html/yii/framework/web/helpers/CHtml.php on line 2112
+[23-Apr-2013 17:43:08] PHP Fatal error:  Cannot unset string offsets in /home6/pendlet1/public_html/yii/framework/web/helpers/CHtml.php on line 2112
+[27-Apr-2013 00:35:33] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 95
+[27-Apr-2013 00:36:04] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 95
+[27-Apr-2013 00:36:14] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 95
+[27-Apr-2013 00:36:33] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 95
+[27-Apr-2013 00:36:47] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 95
+[27-Apr-2013 00:36:55] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 95
+[27-Apr-2013 00:37:42] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 95
+[27-Apr-2013 00:37:44] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 95
+[27-Apr-2013 00:38:53] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 95
+[27-Apr-2013 00:40:52] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 95
+[27-Apr-2013 00:42:15] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 95
+[27-Apr-2013 00:42:19] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 95
+[27-Apr-2013 00:42:47] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 95
+[27-Apr-2013 00:43:11] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 95
+[27-Apr-2013 00:46:38] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 95
+[27-Apr-2013 00:46:41] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 95
+[27-Apr-2013 00:50:49] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 95
+[27-Apr-2013 00:56:17] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 95
+[27-Apr-2013 00:56:22] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 95
+[27-Apr-2013 00:56:35] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 95
+[27-Apr-2013 00:57:44] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 97
+[27-Apr-2013 00:58:26] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 97
+[27-Apr-2013 01:01:21] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 97
+[27-Apr-2013 01:01:25] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 97
+[27-Apr-2013 01:02:09] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 97
+[27-Apr-2013 01:02:55] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home6/pendlet1/public_html/lostnfound/protected/extensions/Curl.php on line 97
+[27-Apr-2013 01:11:44] PHP Fatal error:  Call to undefined function  vardump() in /home6/pendlet1/public_html/lostnfound/protected/helpers/SendHub.php on line 64
+[27-Apr-2013 01:11:49] PHP Fatal error:  Call to undefined function  vardump() in /home6/pendlet1/public_html/lostnfound/protected/helpers/SendHub.php on line 64
+[07-May-2013 23:12:50] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[07-May-2013 23:12:55] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[07-May-2013 23:13:07] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[07-May-2013 23:17:10] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[07-May-2013 23:17:59] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[07-May-2013 23:18:07] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[07-May-2013 23:18:17] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[07-May-2013 23:19:31] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[07-May-2013 23:20:46] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[07-May-2013 23:22:01] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[07-May-2013 23:22:38] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[07-May-2013 23:23:08] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[07-May-2013 23:23:36] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[07-May-2013 23:24:51] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[07-May-2013 23:25:19] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[07-May-2013 23:25:31] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[07-May-2013 23:27:15] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[07-May-2013 23:27:38] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[07-May-2013 23:28:00] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[07-May-2013 23:28:47] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[07-May-2013 23:28:51] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[07-May-2013 23:29:26] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[08-May-2013 06:06:27] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[08-May-2013 06:08:32] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[08-May-2013 06:09:42] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[08-May-2013 06:10:19] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[08-May-2013 06:11:10] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[08-May-2013 06:15:36] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 106
+[08-May-2013 06:19:41] PHP Fatal error:  Call to undefined function  getrecentattendeesoftype() in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[13-May-2013 13:54:31] PHP Fatal error:  Call to a member function leaders() on a non-object in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[13-May-2013 14:02:27] PHP Fatal error:  Call to a member function leaders() on a non-object in /home6/pendlet1/public_html/lostnfound/protected/models/Meeting.php on line 112
+[14-May-2013 16:42:12] PHP Fatal error:  Call to a member function hasErrors() on a non-object in /home6/pendlet1/public_html/yii/framework/web/helpers/CHtml.php on line 1569
+[14-May-2013 16:43:20] PHP Fatal error:  Call to a member function hasErrors() on a non-object in /home6/pendlet1/public_html/yii/framework/web/helpers/CHtml.php on line 1569
+[14-May-2013 16:45:52] PHP Fatal error:  Call to a member function hasErrors() on a non-object in /home6/pendlet1/public_html/yii/framework/web/helpers/CHtml.php on line 1569
+[14-May-2013 16:55:40] PHP Fatal error:  Call to a member function hasErrors() on a non-object in /home6/pendlet1/public_html/yii/framework/web/helpers/CHtml.php on line 1569
+[14-May-2013 16:56:26] PHP Fatal error:  Call to a member function hasErrors() on a non-object in /home6/pendlet1/public_html/yii/framework/web/helpers/CHtml.php on line 1569
+[14-May-2013 17:17:56] PHP Fatal error:  Call to a member function hasErrors() on a non-object in /home6/pendlet1/public_html/yii/framework/web/helpers/CHtml.php on line 1981
+[10-Jun-2013 12:22:50] PHP Fatal error:  Call to a member function isAttributeRequired() on a non-object in /home6/pendlet1/public_html/yii/framework/web/helpers/CHtml.php on line 1237
